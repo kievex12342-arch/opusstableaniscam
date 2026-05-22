@@ -10,6 +10,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 
 from config import BOT_TOKEN
 from handlers import start, check, admin, add_scammer, subscription, keys
+from keep_alive import keep_alive
 
 os.makedirs("logs", exist_ok=True)
 
@@ -22,6 +23,8 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+keep_alive()
 
 
 def create_backup():

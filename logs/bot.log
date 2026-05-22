@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2026-05-20 22:14:28,412 - __main__ - INFO - Database backup created
 2026-05-20 22:14:28,420 - __main__ - INFO - 🛡 OpusGuru Anti-Scam Bot запущен!
 2026-05-20 22:14:28,420 - aiogram.dispatcher - INFO - Start polling
@@ -7,3 +8,14 @@
 2026-05-20 22:14:41,008 - aiogram.event - INFO - Update id=119208067 is handled. Duration 218 ms by bot id=8756817682
 2026-05-20 22:14:55,499 - aiogram.dispatcher - INFO - Polling stopped for bot @opusantiscam_robot id=8756817682 - 'OpusGuru Anti-Scam'
 2026-05-20 22:14:55,499 - aiogram.dispatcher - INFO - Polling stopped
+=======
+2026-05-20 22:14:28,412 - __main__ - INFO - Database backup created
+2026-05-20 22:14:28,420 - __main__ - INFO - 🛡 OpusGuru Anti-Scam Bot запущен!
+2026-05-20 22:14:28,420 - aiogram.dispatcher - INFO - Start polling
+2026-05-20 22:14:28,556 - aiogram.dispatcher - INFO - Run polling for bot @opusantiscam_robot id=8756817682 - 'OpusGuru Anti-Scam'
+2026-05-20 22:14:34,760 - aiogram.event - INFO - Update id=119208065 is handled. Duration 359 ms by bot id=8756817682
+2026-05-20 22:14:37,855 - aiogram.event - INFO - Update id=119208066 is handled. Duration 217 ms by bot id=8756817682
+2026-05-20 22:14:41,008 - aiogram.event - INFO - Update id=119208067 is handled. Duration 218 ms by bot id=8756817682
+2026-05-20 22:14:55,499 - aiogram.dispatcher - INFO - Polling stopped for bot @opusantiscam_robot id=8756817682 - 'OpusGuru Anti-Scam'
+2026-05-20 22:14:55,499 - aiogram.dispatcher - INFO - Polling stopped
+>>>>>>> f37e0551d570f51c9c6312f75057b91a4f599481
